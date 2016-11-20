@@ -1,0 +1,11 @@
+http://www.indeed.com/viewjob?jk=cbad7575921de77a&q=web+developer+javascript&l=austin&tk=1b20u5p0ja55ifk5&from=web
+
+I chose this job because the requirements were pretty low to some of the others I saw. This would be a good entry level
+job to build on my experiences from bootcamp, and it seems like they are flexabile and would hire an underqualified 
+person who can prove they have a good base of knowledge.
+
+https://austin.craigslist.org/web/5839750738.html
+
+This is a freelance job, which I find interesting because it hasn't been an option so far. I found it reassuring that the
+skills we are working on in class are many of the requirements - a portfolio, CSS, HTML, and Jquery. It was reassuring to
+see how many postings like this I found just on craigslist.
